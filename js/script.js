@@ -369,7 +369,7 @@ function calculateGrades() {
     // Calculate TGPA
     const tgpa = totalGradePoints / totalCredits;
 
-    // Calculate percentage
+    // Calculate percentagekjgkjgk
     const percentage = gpaToPercentage(tgpa);
 
     // Calculate overall grade
